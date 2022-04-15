@@ -115,6 +115,6 @@ dmypy.json
 .pyre/
 
 
-.ipynb
-.csv
-.xlsx
+*.ipynb
+*.csv
+*.xlsx
